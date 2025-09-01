@@ -71,7 +71,7 @@ Desarrollo de productos escalables, salud digital, optimización de arquitectura
 ## 💬 Idiomas
 
 - Español (Nativo)  
-- Inglés (B1)  
+- Inglés (C1) https://cert.efset.org/es/pVtjQQ
 
 ---
 
