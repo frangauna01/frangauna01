@@ -82,8 +82,8 @@ Desarrollo de productos escalables, salud digital, optimización de arquitectura
 ---
 
 ## 🔍 Estadísticas (Dinámicas)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frangauna01&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frangauna01&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-ecru-psi-14.vercel.app/api?username=frangauna01&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-ecru-psi-14.vercel.app/api/top-langs/?username=frangauna01&layout=compact&theme=radical&hide_border=true)
 <!-- Puedes añadir más tarjetas si lo deseas:
 Streak: https://streak-stats.demolab.com?user=frangauna01&theme=radical&hide_border=true
 -->
