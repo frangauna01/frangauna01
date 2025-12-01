@@ -82,7 +82,7 @@ Desarrollo de productos escalables, salud digital, optimización de arquitectura
 ---
 
 ## 🔍 Estadísticas (Dinámicas)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frangauna01)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frangauna01&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frangauna01&layout=compact&theme=radical&hide_border=true)
 <!-- Puedes añadir más tarjetas si lo deseas:
