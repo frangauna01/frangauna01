@@ -7,18 +7,19 @@
 
 ## 🚀 Stack Principal
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FF6C37?logo=typeorm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0B0B0B)
+<!--![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0B0B0B)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
+-->
 ### 🧠 Actualmente aprendiendo
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -82,8 +83,12 @@ Desarrollo de productos escalables, salud digital, optimización de arquitectura
 ---
 
 ## 🔍 Estadísticas
-![GitHub Stats](https://github-readme-stats-ecru-psi-14.vercel.app/api?username=frangauna01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-ecru-psi-14.vercel.app/api/top-langs/?username=frangauna01&layout=compact&theme=radical&hide_border=true)
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-ecru-psi-14.vercel.app/api?username=frangauna01&rank_icon=github&theme=github_dark" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-ecru-psi-14.vercel.app/api/top-langs?username=frangauna01&layout=compact&langs_count=8&card_width=320&stats_format=bytes&theme=github_dark" />
+</a>
 <!-- Puedes añadir más tarjetas si lo deseas:
 Streak: https://streak-stats.demolab.com?user=frangauna01&theme=radical&hide_border=true
 -->
